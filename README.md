@@ -20,7 +20,8 @@
 
 > *"Tired of fancy graphics? Me too."*
 
-This is **Terminal Snake** - a classic snake game that runs entirely in your terminal. No Electron apps, no bloated frameworks, no 16GB GPU requirements. Just good old-fashioned ASCII art and Python magic.
+This is **Terminal Snake** - a classic snake game that runs entirely in your terminal. No Electron apps, no bloated frameworks, no GPU required (not even integrated). Just good old-fashioned ASCII art and Python magic.
+Runs on a toaster. Seriously.
 
 Built as a fun experiment to explore **TUI (Terminal User Interface)** development using the awesome [Textual](https://textual.textualize.io/) framework. Because why use a mouse when you have arrow keys?
 
@@ -33,6 +34,7 @@ Built as a fun experiment to explore **TUI (Terminal User Interface)** developme
 - ⏸️ **Pause Functionality** - For when your boss walks by
 - 🎯 **Score Tracking** - Bragging rights included
 - 🔄 **Restart Without Quitting** - Because "just one more game"
+- ⚡ **Electron apps hate this one weird trick**
 - 🎨 **Pretty Colors** - Using Rich for that extra terminal bling
 
 ---
@@ -97,7 +99,7 @@ This project was born from:
 - Boredom
 - Curiosity about TUI frameworks
 - A deep-seated belief that everything should run in a terminal
-- The desire to prove that 2024's coolest games don't need a GPU
+- The desire to prove that 2024's coolest games don't need a GPU (or a CPU from this decade)
 
 ---
 
