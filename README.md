@@ -98,7 +98,7 @@ python snake_game.py
 This project was born from:
 - Boredom
 - Curiosity about TUI frameworks
-- A deep-seated belief that everything should run in a terminal
+- To prove that terminals can look fancy too
 - The desire to prove that 2026's coolest games don't need a GPU (or a CPU from this decade)
 
 ---
